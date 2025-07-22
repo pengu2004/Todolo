@@ -39,9 +39,11 @@ Supports adding, listing, marking as done, and deleting tasks — all stored in 
 3. Build the project:
   ```bash
    cargo build
+   ```
 4. Run the project:
    ```bash
    cargo run
+   ```
 
 ## Screenshot
 
