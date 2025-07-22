@@ -18,7 +18,7 @@ Supports adding, listing, marking as done, and deleting tasks — all stored in 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todoapp.git
+   git clone https://github.com/pengu2004/Todolo.git
    cd todoapp
 2.	Add dependencies in Cargo.toml:
    [dependencies]
