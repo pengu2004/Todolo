@@ -19,14 +19,23 @@ Supports adding, listing, marking as done, and deleting tasks — all stored in 
 
    ```bash
    git clone https://github.com/pengu2004/Todolo.git
+   cd Todolo
+---
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/pengu2004/Todolo.git
    cd todoapp
 2.	Add dependencies in Cargo.toml:
+   
+   ```bash
    [dependencies]
     serde = { version = "1.0", features = ["derive"] }
     serde_json = "1.0"
 
-3.Build the project:
-  cargo build
-
-4.Run the app:
-  cargo run
+3. Build the project:
+  ```bash
+   cargo build
