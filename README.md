@@ -35,7 +35,7 @@ Supports adding, listing, marking as done, and deleting tasks — all stored in 
    [dependencies]
     serde = { version = "1.0", features = ["derive"] }
     serde_json = "1.0"
-
+   ```
 3. Build the project:
   ```bash
    cargo build
